@@ -10,7 +10,7 @@ A Retrieval-Augmented Generation (RAG) chatbot using TinyLlama(https://ollama.co
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/marxbot.git
+git clone https://github.com/joyboseroy/marxbot.git
 cd marxbot
 
 #marxtexts
