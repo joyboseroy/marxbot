@@ -1,0 +1,7 @@
+langchain
+chromadb
+sentence-transformers
+langchain-community
+unstructured
+pdfminer.six
+python-docx
